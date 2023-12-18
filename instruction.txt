@@ -1,0 +1,32 @@
+create file in directory
+        |
+        |
+Write Text or code in txt or any extention file
+        |
+        |
+command ->(git status) -> check which file is not add to git
+        |
+        |
+command ->(git add) -> this command add file in git 
+command ->(git add .) -> this command add all file that not be added  in git
+        |
+        |
+command -> (git status) -> after check which are we added in git 
+        |
+        |
+command -> (git commit -m "type message that you want") -> this command added file in git with message ,that you write in previous 
+        |
+        |
+command -> (git log) -> this command show the file that you added 
+
+
+
+
+
+command -> (git diff filename.txt) -> this command check that what changes that you did in your file  ex:- the show the differnce before and after changes in file  
+
+
+command -> (git checkout filename.txt) -> thi command reverce the changes that you change in file 
+
+
+command -> (git clone url) -> this command clone the remote directory of github into local computer directory
